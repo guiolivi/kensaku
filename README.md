@@ -1,12 +1,13 @@
-## Kensaku - Anime Search
+## Anime Toshokan - Anime Searcher
 
-**Kensaku** is a web application designed to search for anime series and display detailed information such as cover art, release date, synopsis, genres, and MyAnimeList ratings.
+**あにめ図書館 (Anime Library)** is a web application designed to search for anime series and display detailed information such as cover art, release date, synopsis, genres, and MyAnimeList ratings.
 
 ### Features
 - [ ] UI
 - [ ] Dark theme
-- [ ] Search (lol)
+- [ ] Search
 - [ ] Detailed view
 - [ ] Filters
+- [ ] Watchlist
 - [ ] Last anime searched
   - Display in the initial page
