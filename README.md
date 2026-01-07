@@ -5,6 +5,7 @@
 ### Features
 - [ ] UI
 - [ ] Dark theme
+- [ ] PT/EN translation
 - [ ] Search
 - [ ] Detailed view
 - [ ] Filters
